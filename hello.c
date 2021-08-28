@@ -2,5 +2,6 @@
 
 void main(){
 	printf("helloworld");
+	printf("hellojava")；
 	
 }
